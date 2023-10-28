@@ -9,3 +9,5 @@ be sent to the cloud via the MQTT Protocol.
 
 More information of this project can be found in my final year report that I would be uploading soon.
 Feel free to use the code for your cloud-based applications. 
+
+![FYP Overall System Architecture](https://github.com/reubengoh/fyp-data-acquisition/assets/93382264/b588b577-160c-48e9-93d4-0593022db6ab)
